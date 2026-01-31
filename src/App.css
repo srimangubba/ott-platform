@@ -1,0 +1,16 @@
+.card {
+  border: 3px solid;
+  border-color: grey;
+  width: 30%;
+  padding: 5px;
+  margin: 5px;
+
+  .card-button {
+    align-content: center;
+  }
+}
+
+.card-container {
+  display: flex;
+
+}
